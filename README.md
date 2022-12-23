@@ -38,3 +38,17 @@ npm run dev
 ```sh
 npm run build
 ```
+### Ana Ekran
+![](doc/ana-ekran.png)
+
+### Adres Ekleme Ekranı
+![](doc/adres-ekle.png)
+
+### Gönderici Ekleme Ekranı
+![](doc/gönderici-ekle.png)
+
+### Kargo Ekleme Ekranı
+![](doc/kargo-ekle.png)
+
+### Şube Ekleme Ekranı
+![](doc/şube-ekle.png)
